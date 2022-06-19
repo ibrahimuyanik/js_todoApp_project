@@ -1,3 +1,5 @@
+//asdasdasd
+
 const form = document.querySelector("#todo-form")
 const todoInput = document.querySelector("#todo") //input değeri
 const todoList = document.querySelector(".list-group") // todo ların ekleneceği liste
